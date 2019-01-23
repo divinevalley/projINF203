@@ -40,6 +40,7 @@ import org.xml.sax.SAXException;
 4- Préparer l'environnement pour que l'API umls (projet Maven) fonctionne 
 (installer pom.xml, vérifier que le fichier settings.xml conforme à ce qui est décrit
 par la documentation umls api soap)
+https://documentation.uts.nlm.nih.gov/soap/installation/maven-installation.html
 *
 *
 ****************************************************************************/
